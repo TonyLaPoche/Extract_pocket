@@ -7,7 +7,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:pocket_extract/main.dart';
+import 'package:pocket_extract/app/pocket_extract_app.dart';
 
 void main() {
   testWidgets('PocketExtract s affiche correctement', (
